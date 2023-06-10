@@ -8,6 +8,7 @@ Due to the high computational power needed to classify the original audio files,
 ![githubimage1](https://github.com/aristosp/Indoor-Sound-Classification/assets/62808962/b062d0b9-48ac-4d26-b347-4cf2c66dc86b)
 
 Data augmenantion was used, consinsting of those presented in SpecAugment (https://arxiv.org/abs/1904.08779), resulting in the following augmentations:
+
 ![image](https://github.com/aristosp/Indoor-Sound-Classification/assets/62808962/521180e5-37df-4d43-a2ba-f4ce5ba898f0)
 
-
+After the models were developed and finalized, multiple training phases occured to check if their results are consistent.
